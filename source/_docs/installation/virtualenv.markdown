@@ -68,7 +68,7 @@ It is recommended to use the [advanced guide](/docs/installation/raspberry-pi/) 
 
 ### {% linkable_title Notes %}
 
-- In the future, if you want to start Home Assistant manually again, follow step 2, 3 and 5.
+- In the future, if you want to start Home Assistant manually again, follow step 2, 3 and 7.
 - It's recommended to run Home Assistant as a dedicated user.
 
 <p class='info'>
